@@ -26,14 +26,8 @@
 <!-- Pin 4–6 repos later – they appear automatically below -->
 
 - **[ubuntu-bootstrap](https://github.com/maalekpour/ubuntu-bootstrap)** — Automated dev workstation setup for Ubuntu
-- (add your robotics/vision projects here once polished)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maalekpour&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maalekpour&theme=radical&hide_border=true" alt="streak" />
-</div>
+<!--- (add your robotics/vision projects here once polished)
+-->
 
 ### 📬 Let's connect
 
