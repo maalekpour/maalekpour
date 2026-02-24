@@ -37,7 +37,7 @@
 
 ### 📬 Let's connect
 
-- 📧 Email: (add if public)
+- 📧 Email: ali.maalekpour@gmail.com
 - 🌍 Based in Tehran, Iran
 
 Thanks for stopping by! 🚀
